@@ -104,13 +104,13 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/lakshman-sampath-kumar-ranga-1100b12a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:r.l.sampath2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio.vercel.app/">
+  <a href="rlsk-portfolio-bxb4.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a> 
 </p>

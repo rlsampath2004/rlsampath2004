@@ -34,12 +34,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/LakshmanSampathKumar/Ddos-classification" target="_blank">DDoS Attack Classification</a></td>
+      <td><a href="https://github.com/rlsampath2004/Ddos-classification" target="_blank">DDoS Attack Classification</a></td>
       <td>Classifies network traffic to detect potential DDoS attacks</td>
       <td>Python, Pandas, NumPy, Scikit-learn</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/LakshmanSampathKumar/Network-anomaly" target="_blank">Network Anomaly Detection</a></td>
+      <td><a href="https://github.com/rlsampath2004/Network-anomaly" target="_blank">Network Anomaly Detection</a></td>
       <td>Detects unusual patterns in network traffic for enhanced security</td>
       <td>Python, ML Algorithms, Matplotlib</td>
     </tr>

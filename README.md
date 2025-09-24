@@ -91,7 +91,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=rlsampath2004&show_icons=true&theme=tokyonight" />  
   <br /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rlsampath2004&theme=tokyonight" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rlsampath2004&theme=tokyonight" />   
   <br /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlsampath2004&layout=compact&theme=tokyonight" /> 
 </p>

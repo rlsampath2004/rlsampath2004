@@ -34,17 +34,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#">DDoS Attack Classification</a></td>
+      <td><a href="https://github.com/LakshmanSampathKumar/DDoS-Attack-Classification" target="_blank">DDoS Attack Classification</a></td>
       <td>Classifies network traffic to detect potential DDoS attacks</td>
       <td>Python, Pandas, NumPy, Scikit-learn</td>
     </tr>
     <tr>
-      <td><a href="#">Network Anomaly Detection</a></td>
+      <td><a href="https://github.com/LakshmanSampathKumar/Network-Anomaly-Detection" target="_blank">Network Anomaly Detection</a></td>
       <td>Detects unusual patterns in network traffic for enhanced security</td>
       <td>Python, ML Algorithms, Matplotlib</td>
     </tr>
     <tr>
-      <td><a href="#">Portfolio Website</a></td>
+      <td><a href="https://rlsk-portfolio-bxb4.vercel.app" target="_blank">Portfolio Website</a></td>
       <td>Personal portfolio to showcase projects and skills</td>
       <td>HTML, CSS, JavaScript (Deployed on Vercel)</td>
     </tr>
@@ -73,7 +73,6 @@
 ## 🛠️ Tech Stack/Tools
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px; padding: 20px;">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="69px" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" alt="MySQL" />
@@ -110,7 +109,7 @@
   <a href="mailto:r.l.sampath2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="rlsk-portfolio-bxb4.vercel.app">
+  <a href="https://rlsk-portfolio-bxb4.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a> 
 </p>
